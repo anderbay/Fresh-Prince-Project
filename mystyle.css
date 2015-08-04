@@ -1,0 +1,26 @@
+h1 {
+	color: #CC3300;
+	font-family: Impact, Charcoal, sans-serif;
+	letter-spacing: 0.05em;
+	font-style: italic;
+}
+
+p{
+	color: #B2B2B2;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-style: bold;
+	margin: auto;
+	padding:0 42em 0 42em;
+	line-height: 2.5em;
+}
+
+html {
+	background-color:gray;
+	text-align: center;
+}
+
+a{
+	text-decoration: none;
+	color: #CC3300;
+
+}
