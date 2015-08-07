@@ -1,0 +1,28 @@
+h1 {
+	font-size: 2.5em;
+  color: #a5ff00;
+	font-family: Arial, sans-serif;
+	letter-spacing: 0.05em;
+	font-style: normal;
+}
+
+p{
+	font-size: 1em;
+  color: #7c7c7c;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-style: bold;
+	margin: auto;
+	padding:0 35%;
+	line-height: 2.5em;
+}
+
+html {
+	background-color:black;
+	text-align: center;
+}
+
+a{
+	text-decoration: none;
+	color: #4d7700;
+  font-size: 0.8em;
+}
